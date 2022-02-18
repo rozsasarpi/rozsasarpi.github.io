@@ -1,0 +1,60 @@
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+locale: "en-US"
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+title: "Arpad Rozsas"
+title_separator: "|"
+description: "Overview of projects, skills, and publications."
+name: "Arpad Rozsas"
+url: "https://arpad-rozsas.github.io"
+
+
+author:
+  # name     : "Arpad Rozsas"
+  avatar   : "/assets/images/arpad_rozsas_photo.jpg"
+  bio      : "Researcher | Data Scientist | Engineer."
+  location : "Rome, Italy"
+  email    : rozsasarpi@gmail.com
+  links:
+     - label: "GitLab"
+       icon: "fab fa-fw fa-gitlab"
+       url: "https://gitlab.com/rozsasarpi"
+     - label: "GitHub"
+       icon: "fab fa-fw fa-github"
+       url: "https://github.com/rozsasarpi"
+     - label: "StackOverflow"
+       icon: "fab fa-fw fa-stack-overflow"
+       url: "https://stackoverflow.com/users/4063376/rozsasarpi"  
+
+atom_feed:
+  hide: true
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-GED3V76BQ6"
+    anonymize_ip: true
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
