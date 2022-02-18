@@ -15,7 +15,7 @@ defaults:
       author_profile: true
 
 title: "Arpad Rozsas"
-title_separator: "|"
+title_separator: ""
 description: "Overview of projects, skills, and publications."
 name: "Arpad Rozsas"
 url: "https://arpad-rozsas.github.io"
@@ -24,7 +24,7 @@ url: "https://arpad-rozsas.github.io"
 author:
   # name     : "Arpad Rozsas"
   avatar   : "/assets/images/arpad_rozsas_photo.jpg"
-  bio      : "Researcher | Data Scientist | Engineer."
+  bio      : "Researcher, data scientist, engineer."
   location : "Rome, Italy"
   email    : rozsasarpi@gmail.com
   links:
@@ -34,9 +34,13 @@ author:
      - label: "GitHub"
        icon: "fab fa-fw fa-github"
        url: "https://github.com/rozsasarpi"
-     - label: "StackOverflow"
+     - label: "Stack Overflow"
        icon: "fab fa-fw fa-stack-overflow"
-       url: "https://stackoverflow.com/users/4063376/rozsasarpi"  
+       url: "https://stackoverflow.com/users/4063376/rozsasarpi"
+     - label: "LinkedIn"
+       icon: "fab fa-fw fa-linkedin-in"
+       url: "https://www.linkedin.com/in/arpad-rozsas/"
+       
 
 atom_feed:
   hide: true
