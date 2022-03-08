@@ -40,7 +40,10 @@ author:
      - label: "LinkedIn"
        icon: "fab fa-fw fa-linkedin-in"
        url: "https://www.linkedin.com/in/arpad-rozsas/"
-       
+
+# Echarts.js
+head_scripts: 
+ - https://cdn.jsdelivr.net/npm/echarts@5.3.0/dist/echarts.min.js
 
 atom_feed:
   hide: true
