@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 permalink: /publications/
-excerpt: ""
 comment: "APA style"
 ---
 

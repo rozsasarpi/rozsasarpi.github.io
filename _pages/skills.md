@@ -1,7 +1,6 @@
 ---
 title: "Skills"
 permalink: /skills/
-excerpt: ""
 comment: ""
 ---
 

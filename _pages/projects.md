@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 permalink: /projects/
-excerpt: ""
 ---
 
 Research and commercial project experience in:

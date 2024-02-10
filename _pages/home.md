@@ -1,7 +1,6 @@
 ---
 title: "Overview"
 permalink: /
-excerpt: ""
 ---
 
 I am experienced and deeply interested in data science, combining machine learning with first-principles-based modelling, and 
