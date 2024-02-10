@@ -7,11 +7,19 @@ comment: ""
 
 A brief summary of my skills and experience.
 
+## Applied statistics/Data science
+
+- **Time-series modelling** (statistical and machine learning models).
+- **Bayesian** and frequentist statistics (regression, hierarchical models, hypothesis testing)
+- Extreme value analysis (from 1 to 10000 years return period events, stationary and non-stationary processes, GEV, GP, etc. with special emphasis on fitting models to relatively small datasets using Bayesian statistics).
+- Deep learning: regression and image analysis (CNN).
+- **Risk assessment** and decision theory.
+
 ## Computer skills
 
-- **Python**: numpy, numba, xarray, scipy, sklearn, pandas, matplotlib, seaborn, pyMC3, nestle, emcee, dynesty, pyABC, tensorflow, keras, pytorch, GPyTorch, ax, jMetalPy, OpenTURNS, catboost, sphinx, requests, flask, jinja2, etc., functional and object oriented programming, and code quality and package development tools.
-- **R**: dplyr, rstan, bmle, evd, parallel, shiny, ggplot2, leaﬂetr, ggmap, renv, tibble, readr, etc.
+- **Python**: numpy, numba, xarray, scipy, sklearn, pandas, matplotlib, seaborn, pyMC3, nestle, emcee, dynesty, pyABC, tensorflow, keras, pytorch, GPyTorch, ax, jMetalPy, OpenTURNS, catboost, lightgbm, sphinx, requests, flask, jinja2, etc., functional and object oriented programming, and code quality and package development tools.
 - **Julia**: Flux.jl, DifferentialEquations.jl, DiffEqFlux.jl, Turing.jl, NLOpt.jl, GalacticOptim.jl, Zygote.jl, Test.jl, Pluto.jl, etc., and code quality and package development tools.
+- **R**: dplyr, rstan, bmle, evd, parallel, shiny, ggplot2, leaﬂetr, ggmap, renv, tibble, readr, etc.
 - **MATLAB**: Parallel Computing Toolbox, Statistics Toolbox, Neural Network Toolbox, Optimization Toolbox, FERUM, UQLab, Advanpix, etc.
 - AWS (EC2, S3), Azure (VM, DevOps, Logic Apps, Storage), Heroku.
 - Git (GitLab, GitHub (both with CI/CD)), Docker, Jenkins, Terraform.
@@ -20,15 +28,6 @@ A brief summary of my skills and experience.
 - css, html, jekyll.
 - ANSYS, MIDAS Civil, OpenSees, Diana, Atena, AxisVM, ConSteel.
 - Linux, LaTeX, Microsoft Office products, AutoCAD, Adobe Illustrator.
-
-## Applied statistics/Data science
-
-- **Bayesian** and frequentist statistics (regression, hierarchical models, hypothesis testing)
-- Extreme value analysis (from 1 to 10000 years return period events, stationary and non-stationary processes, GEV, GP, etc. with special emphasis on fitting models to relatively small datasets using Bayesian statistics).
-- (boosted) Decision trees.
-- Deep learning: regression and image analysis (CNN).
-- Time series analysis (statistical and machine learning models).
-- **Risk assessment** and decision theory.
 
 ## Numerical analysis/Computational science
 

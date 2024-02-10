@@ -5,6 +5,7 @@ excerpt: ""
 ---
 
 Research and commercial project experience in:
+- time-series modelling (electricity markets)
 - applied statistics (Bayesian and frequentist statistics),
 - data science,
 - machine learning (deep learning),
