@@ -1,7 +1,6 @@
 ---
 title: "Code"
 permalink: /code/
-excerpt: ""
 comment: ""
 ---
 
